@@ -13,6 +13,7 @@ const createLabels = () =>{
 const scroll_element_labels = createLabels();
 
 addEventListener("DOMContentLoaded" , e =>{
+    manage_mediaQuery(window.innerWidth)
     initiatePage1AutoText()
     __v['container'].addEventListener("scroll" , (e) =>{
         for(let i = scroll_element.length-1; i >= 0 ; i--)
