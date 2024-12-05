@@ -1,4 +1,4 @@
-import { __v , __p} from "./sydneyDom_v2.js";
+import { __v , __p , manage_mediaQuery} from "./sydneyDom_v2.js";
 
 const scroll_element = ['page1' , 'about_page' , 'page2' , 'page3' , 'page4' , 'page5'];//, 'about_page' , 'page2' , 'page3' ,'page4' ,'page5'
 
