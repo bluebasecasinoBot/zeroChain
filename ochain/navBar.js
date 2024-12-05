@@ -115,7 +115,7 @@ __SYD.dropDownNavMenu_el = () =>{
     return __c(
         "div",
         {
-            style:"height:100%;width:100%;background:#171717;display:flex;flex-direction:column;row-gap:20px;padding:20px;color:#fff;text-transform:capitalize;animation-duration:1s;",
+            style:"height:100%;width:100%;background:#171717;display:flex;flex-direction:column;row-gap:20px;padding:20px;color:#fff;text-transform:capitalize;animation-duration:.4s;",
             class:"drop_down_menu navDropDown"
         },
         [
